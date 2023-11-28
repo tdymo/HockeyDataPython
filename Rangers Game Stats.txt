@@ -1,0 +1,90 @@
+Team Name: New York Rangers
+
+Game 1: Rangers (5) vs. Sabres (1)
+Player: Chris Kreider | Goals-2 | Assists-1
+Player: Mika Zibanejad | Goals-0 | Assists-3
+Player: Artemi Panarin | Goals-1 | Assists-1
+Player: Filip Chytil | Goals-0 | Assists-1
+Player: Adam Fox | Goals-0 | Assists-1
+Player: Alexis Lafreniere | Goals-1 | Assists-0
+Player: K'Andre Miller | Goals-0 | Assists-1
+Player: Jacob Trouba | Goals-1 | Assists-0
+Player: Nick Bonino | Goals-0 | Assists-0
+Player: Will Cuylle | Goals-0 | Assists-0
+Player: Barclay Goodrow | Goals-0 | Assists-0
+Player: Erik Gustafsson | Goals-0 | Assists-0
+Player: Kaapo Kakko | Goals-0 | Assists-0
+Player: Ryan Lindgren | Goals-0 | Assists-0
+Player: Tyler Pitlick | Goals-0 | Assists-0
+Player: Braden Schneider | Goals-0 | Assists-0
+Player: Vincent Trocheck | Goals-0 | Assists-0
+Player: Blake Wheeler | Goals-0 | Assists-0
+Goalie: Igor Shesterkin | Goals Against-1 | Shots Against-25 | Saves-24
+
+Game 2: Rangers (3) vs. Blue Jackets (5)
+Player: Adam Fox | Goals-0 | Assists-2
+Player: Erik Gustafsson | Goals-1 | Assists-1
+Player: Will Cuylle | Goals-1 | Assists-0
+Player: Chris Kreider | Goals-1 | Assists-0
+Player: Artemi Panarin | Goals-0 | Assists-1
+Player: Vincent Trocheck | Goals-0 | Assists-1
+Player: Jimmy Vesey | Goals-0 | Assists-1
+Player: Nick Bonino | Goals-0 | Assists-0
+Player: Filip Chytil | Goals-0 | Assists-0
+Player: Barclay Goodrow | Goals-0 | Assists-0
+Player: Zac Jones | Goals-0 | Assists-0
+Player: Kaapo Kakko | Goals-0 | Assists-0
+Player: Alexis Lafreniere | Goals-0 | Assists-0
+Player: K'Andre Miller | Goals-0 | Assists-0
+Player: Braden Schneider | Goals-0 | Assists-0
+Player: Jacob Trouba | Goals-0 | Assists-0
+Player: Blake Wheeler | Goals-0 | Assists-0
+Player: Mika Zibanejad | Goals-0 | Assists-0
+Goalie: Igor Shesterkin | Goals Against-5 | Shots Against-21 | Saves-16
+
+Game 3: Rangers (2) vs. Coyotes (1)
+Player: Adam Fox | Goals-0 | Assists-1
+Player: Kaapo Kakko | Goals-0 | Assists-1
+Player: Chris Kreider | Goals-1 | Assists-0
+Player: Artemi Panarin | Goals-0 | Assists-1
+Player: Vincent Trocheck | Goals-1 | Assists-0
+Player: Mika Zibanejad | Goals-0 | Assists-1
+Player: Nick Bonino | Goals-0 | Assists-0
+Player: Filip Chytil | Goals-0 | Assists-0
+Player: Will Cuylle | Goals-0 | Assists-0
+Player: Barclay Goodrow | Goals-0 | Assists-0
+Player: Erik Gustafsson | Goals-0 | Assists-0
+Player: Alexis Lafreniere | Goals-0 | Assists-0
+Player: Ryan Lindgren | Goals-0 | Assists-0
+Player: K'Andre Miller | Goals-0 | Assists-0
+Player: Tyler Pitlick | Goals-0 | Assists-0
+Player: Braden Schneider | Goals-0 | Assists-0
+Player: Jacob Trouba | Goals-0 | Assists-0
+Player: Blake Wheeler | Goals-0 | Assists-0
+Goalie: Igor Shesterkin | Goals Against-1 | Shots Against-27 | Saves-26
+
+Game 4: Rangers (1) vs. Predators (4)
+Player: Adam Fox | Goals-1 | Assists-0
+Player: Artemi Panarin | Goals-0 | Assists-1
+Player: Mika Zibanejad | Goals-0 | Assists-1
+Player: Nick Bonino | Goals-0 | Assists-0
+Player: Filip Chytil | Goals-0 | Assists-0
+Player: Will Cuylle | Goals-0 | Assists-0
+Player: Barclay Goodrow | Goals-0 | Assists-0
+Player: Erik Gustafsson | Goals-0 | Assists-0
+Player: Kappo Kakko | Goals-0 | Assists-0
+Player: Chris Kreider | Goals-0 | Assists-0
+Player: Alexis Lafreniere | Goals-0 | Assists-0
+Player: Ryan Lindgren | Goals-0 | Assists-0
+Player: K'Andre Miller | Goals-0 | Assists-0
+Player: Braden Schneider | Goals-0 | Assists-0
+Player: Vincent Trocheck | Goals-0 | Assists-0
+Player: Jacob Trouba | Goals-0 | Assists-0
+Player: Jimmy Vesey | Goals-0 | Assists-0
+Player: Blake Wheeler | Goals-0 | Assists-0
+Goalie: Igor Shesterkin | Goals Against-4 | Shots Against-18 | Saves-14
+Goalie: Jonathan Quick | Goals Against-0 | Shots Against-9 | Saves-9
+
+
+
+
